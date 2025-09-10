@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Animations.meta
 guid: f407ee5efdd0d61489fd9a750d65088f
+=======
+<<<<<<< HEAD
+guid: 0d080b426e8fc7b45a792245cd151610
+=======
+guid: dae2f05eefb51cb488bfc73f03962277
+>>>>>>> Malthe
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

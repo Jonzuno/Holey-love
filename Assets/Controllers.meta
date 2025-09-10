@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Controllers.meta
 guid: c83ec368c8f61cb4089f9702e2337c13
+=======
+<<<<<<< HEAD
+guid: 6013f481a2d7637478f1f0bfec53124d
+=======
+guid: 8e01bc9baaf621b47b38e4d4e98dac62
+>>>>>>> Malthe
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

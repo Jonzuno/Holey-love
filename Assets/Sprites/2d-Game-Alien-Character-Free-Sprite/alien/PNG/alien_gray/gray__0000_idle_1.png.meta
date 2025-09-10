@@ -1,8 +1,16 @@
 fileFormatVersion: 2
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0000_idle_1.png.meta
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0000_idle_1.png.meta
 guid: f7a254f39c22bab4d80608b7d882c9dc
 =======
 guid: 68801f16303dcac49b349a6bec210a3c
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0000_idle_1.png.meta
+=======
+<<<<<<< HEAD
+guid: 68801f16303dcac49b349a6bec210a3c
+=======
+guid: deb1f0ee9a4185e4fa8fd7287d978e7b
+>>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0000_idle_1.png.meta
 TextureImporter:
   internalIDToNameTable:
