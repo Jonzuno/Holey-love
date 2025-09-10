@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_predator_mask/predatormask__0000_idle_1.png.meta
 guid: e6fb6ac6fb5025f4c940166a5bc87163
+=======
+guid: 79256f4c2a1aed24995bf101139675a2
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_predator_mask/predatormask__0000_idle_1.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_predator_mask/predatormask__0000_idle_1.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_predator_mask/predatormask__0000_idle_1.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

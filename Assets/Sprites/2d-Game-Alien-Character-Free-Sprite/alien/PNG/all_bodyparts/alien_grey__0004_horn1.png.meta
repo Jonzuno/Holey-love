@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
 guid: 139bd70ac2e36d24eaea94f6435b71f5
+=======
+guid: b8e3d321e5ae1fd42a5a86ce67fe5211
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

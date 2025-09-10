@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0013_run_2.png.meta
 guid: 94a4a8a6709bfb74e95b00ea41c97a06
+=======
+guid: a6b65c257cdd0764eb1e37abaa7a8551
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0013_run_2.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0013_run_2.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0013_run_2.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

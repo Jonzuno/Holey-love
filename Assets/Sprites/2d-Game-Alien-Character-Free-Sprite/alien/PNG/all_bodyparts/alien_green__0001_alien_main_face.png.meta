@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0001_alien_main_face.png.meta
 guid: c6569cd45f4bf0649ad9c485ae9ff5cb
+=======
+guid: a66dab0ddaf48e5419f823d6f37e5423
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0001_alien_main_face.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -102,6 +106,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0001_alien_main_face.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -115,6 +120,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0001_alien_main_face.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

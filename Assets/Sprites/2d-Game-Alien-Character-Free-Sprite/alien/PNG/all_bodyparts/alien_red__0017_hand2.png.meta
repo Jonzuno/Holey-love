@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_red__0017_hand2.png.meta
 guid: 241d84a5b2ad8a943a7f8096b991e4ad
+=======
+guid: 43da8d3cd462eec4b8b9705075ede29b
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_red__0017_hand2.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_red__0017_hand2.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_red__0017_hand2.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

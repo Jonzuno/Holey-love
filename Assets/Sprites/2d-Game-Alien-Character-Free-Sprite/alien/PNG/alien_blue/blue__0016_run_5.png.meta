@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0016_run_5.png.meta
 guid: fb06ecbd083ee03439ca71aadbf47166
+=======
+guid: 20c5f0db9b3208c4b85615190be8841b
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0016_run_5.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0016_run_5.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0016_run_5.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0028_jump_3.png.meta
 guid: d8246ec7e27f8d849a020ec72218ad4c
+=======
+guid: 1f5b7603136b98b4abf43515068fe535
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0028_jump_3.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0028_jump_3.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -109,6 +114,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0028_jump_3.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

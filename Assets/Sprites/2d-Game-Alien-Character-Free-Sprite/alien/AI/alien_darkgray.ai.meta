@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/AI/alien_darkgray.ai.meta
 guid: 57056494f4eaa22438f84e2eb99dbb69
+=======
+guid: 339ea619ee9a83048916d20c18e53c56
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/AI/alien_darkgray.ai.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

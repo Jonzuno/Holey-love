@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0045_æ½«®-0.png.meta
 guid: fe2fec319dd85334da090e98f7fd302c
+=======
+guid: a7c560da2637d83468a2a0a817cddd9d
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0045_æ½«®-0.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -135,6 +139,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0045_æ½«®-0.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -148,6 +153,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0045_æ½«®-0.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0043_fire_9.png.meta
 guid: c486713935fb7144e808f81a42612ac4
+=======
+guid: 7e532e0ea788426478d5b1acac3b7fb4
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0043_fire_9.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -111,6 +115,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0043_fire_9.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -124,6 +129,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0043_fire_9.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

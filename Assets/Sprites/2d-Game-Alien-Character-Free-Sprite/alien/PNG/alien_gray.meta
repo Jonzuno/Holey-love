@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray.meta
 guid: 3ac24e493646d0b4d917cfcb9b2eb0ad
+=======
+guid: 72210f8d0324d604fb965c11424cf383
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

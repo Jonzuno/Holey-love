@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_darkgrey_eyeleeds5.png.meta
 guid: 0c913e062cbe47a4bbecde3e67358260
+=======
+guid: 29afb61d3ef8b8840a8dbd5603c4bb26
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_darkgrey_eyeleeds5.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -99,6 +103,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_darkgrey_eyeleeds5.png.meta
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -112,6 +117,8 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_darkgrey_eyeleeds5.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites:

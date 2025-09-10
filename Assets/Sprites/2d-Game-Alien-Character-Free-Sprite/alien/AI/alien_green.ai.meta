@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/AI/alien_green.ai.meta
 guid: fc27ac8b35fd150459d54aa860ba7d09
+=======
+guid: b8158892cbf7cb645942f3477f85f8ad
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/AI/alien_green.ai.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor.meta
 guid: 72a780577200af24393984aa32c0d393
+=======
+guid: dbe0f052fa52b6e42a3719133c2f8b69
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
