@@ -1,7 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
 guid: 6e59c59b81ab47f9b6ec5781fa725d2c
 timeCreated: 1484171296
 licenseType: Pro
+=======
+<<<<<<< HEAD
+guid: 52d185b6e36480b4595ec1cfbf594b19
+=======
+guid: c3d70a671248e4b459e71b8509e33dde
+>>>>>>> Malthe
+>>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/readme.txt.meta
 TextScriptImporter:
   userData: 
   assetBundleName: 
