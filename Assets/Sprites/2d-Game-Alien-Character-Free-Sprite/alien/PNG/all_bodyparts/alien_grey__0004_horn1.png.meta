@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
+<<<<<<< HEAD
+guid: b8e3d321e5ae1fd42a5a86ce67fe5211
+=======
+guid: 0bacb1e045747d845bf56cd8d43bd8f1
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
 guid: 139bd70ac2e36d24eaea94f6435b71f5
 =======
 guid: b8e3d321e5ae1fd42a5a86ce67fe5211
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: b8e3d321e5ae1fd42a5a86ce67fe5211
@@ -12,6 +23,9 @@ guid: b8e3d321e5ae1fd42a5a86ce67fe5211
 guid: 0bacb1e045747d845bf56cd8d43bd8f1
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey__0004_horn1.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

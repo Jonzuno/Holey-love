@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
+<<<<<<< HEAD
+guid: ec547237231d3f946ac355bacc58d283
+=======
+guid: 61788265a3cb0af4198df904cd2bcdab
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
 guid: ffd01b7fcc048564e9053c450ad6dff9
 =======
 guid: ec547237231d3f946ac355bacc58d283
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: ec547237231d3f946ac355bacc58d283
@@ -12,6 +23,9 @@ guid: ec547237231d3f946ac355bacc58d283
 guid: 61788265a3cb0af4198df904cd2bcdab
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_dark_gray/darkgray__0028_jump_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

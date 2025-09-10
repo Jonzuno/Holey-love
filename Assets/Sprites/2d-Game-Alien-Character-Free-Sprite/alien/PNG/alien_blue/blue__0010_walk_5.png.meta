@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
+<<<<<<< HEAD
+guid: bc9e60c2170ea4a429f8f27e30494fc3
+=======
+guid: 3cc9bb622c1e4c44b823128c395fe542
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
 guid: 8fc3b228395b0be4db86d893d161c8c1
 =======
 guid: bc9e60c2170ea4a429f8f27e30494fc3
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: bc9e60c2170ea4a429f8f27e30494fc3
@@ -12,6 +23,9 @@ guid: bc9e60c2170ea4a429f8f27e30494fc3
 guid: 3cc9bb622c1e4c44b823128c395fe542
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_blue/blue__0010_walk_5.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

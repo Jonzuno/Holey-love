@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
+<<<<<<< HEAD
+guid: 5bd0a6823b8a91f4d857687f088f3edb
+=======
+guid: 1e53983bf87863940a43454080ab4031
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
 guid: ee98edcf738cc91439eddeaf4f7d1c05
 =======
 guid: 5bd0a6823b8a91f4d857687f088f3edb
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 5bd0a6823b8a91f4d857687f088f3edb
@@ -12,6 +23,9 @@ guid: 5bd0a6823b8a91f4d857687f088f3edb
 guid: 1e53983bf87863940a43454080ab4031
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/eyeflash_3.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

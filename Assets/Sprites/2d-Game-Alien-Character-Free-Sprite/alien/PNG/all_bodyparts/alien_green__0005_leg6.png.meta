@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
+<<<<<<< HEAD
+guid: 68be4f245036bdd4ebc7b919ab1ac26e
+=======
+guid: e210bfd98b5dca94b98b8820a9873f94
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
 guid: c340d3cd3cde67c4b9fbb14307d71213
 =======
 guid: 68be4f245036bdd4ebc7b919ab1ac26e
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 68be4f245036bdd4ebc7b919ab1ac26e
@@ -12,6 +23,9 @@ guid: 68be4f245036bdd4ebc7b919ab1ac26e
 guid: e210bfd98b5dca94b98b8820a9873f94
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_green__0005_leg6.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

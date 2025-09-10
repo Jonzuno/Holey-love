@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
+<<<<<<< HEAD
+guid: 8b49dea6c03356841805d59cc0ed2afd
+=======
+guid: 3578441a29f4d634b8896a39ed8cb556
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
 guid: 6e3ebabeb380eb948adf4d79983a8262
 =======
 guid: 8b49dea6c03356841805d59cc0ed2afd
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 8b49dea6c03356841805d59cc0ed2afd
@@ -12,6 +23,9 @@ guid: 8b49dea6c03356841805d59cc0ed2afd
 guid: 3578441a29f4d634b8896a39ed8cb556
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_red/red__0035_fire_1.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

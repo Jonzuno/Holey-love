@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
+<<<<<<< HEAD
+guid: b5f4ace9a2c61c94f9bab74041221c2f
+=======
+guid: 0c7d9fa53b066994ebcb1848b848f68a
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
 guid: 636e9435976d85d45931bc30d15779a5
 =======
 guid: b5f4ace9a2c61c94f9bab74041221c2f
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: b5f4ace9a2c61c94f9bab74041221c2f
@@ -12,6 +23,9 @@ guid: b5f4ace9a2c61c94f9bab74041221c2f
 guid: 0c7d9fa53b066994ebcb1848b848f68a
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/handflash_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

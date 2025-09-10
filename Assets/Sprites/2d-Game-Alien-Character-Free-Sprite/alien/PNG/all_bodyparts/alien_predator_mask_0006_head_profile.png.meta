@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
+<<<<<<< HEAD
+guid: 21c67f3309818b943b73705591b7ba52
+=======
+guid: c13df4249e9755647b6431d19744922b
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
 guid: 8a0a6a2e4c661644fb882fa50a913aec
 =======
 guid: 21c67f3309818b943b73705591b7ba52
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 21c67f3309818b943b73705591b7ba52
@@ -12,6 +23,9 @@ guid: 21c67f3309818b943b73705591b7ba52
 guid: c13df4249e9755647b6431d19744922b
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_predator_mask_0006_head_profile.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

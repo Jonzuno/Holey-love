@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
+<<<<<<< HEAD
+guid: 5440a7bcb3cddb342ae708c6edcf2277
+=======
+guid: 197a8769989f3af42aaf48ebf817edda
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
 guid: ba2231725104b674490782070784458f
 =======
 guid: 5440a7bcb3cddb342ae708c6edcf2277
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 5440a7bcb3cddb342ae708c6edcf2277
@@ -12,6 +23,9 @@ guid: 5440a7bcb3cddb342ae708c6edcf2277
 guid: 197a8769989f3af42aaf48ebf817edda
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0028_jump_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

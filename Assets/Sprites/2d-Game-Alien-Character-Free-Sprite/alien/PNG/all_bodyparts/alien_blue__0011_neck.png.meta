@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
+<<<<<<< HEAD
+guid: 7ecbc824b3f275f40979596b9d77b2b1
+=======
+guid: 0ac6a82727e78df43b672d4195864a03
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
 guid: 506fdd946ce6dfd40b5b228496b4cbfd
 =======
 guid: 7ecbc824b3f275f40979596b9d77b2b1
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 7ecbc824b3f275f40979596b9d77b2b1
@@ -12,6 +23,9 @@ guid: 7ecbc824b3f275f40979596b9d77b2b1
 guid: 0ac6a82727e78df43b672d4195864a03
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_blue__0011_neck.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

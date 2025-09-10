@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
+<<<<<<< HEAD
+guid: 1b2062a29c60ffd46a4edef3c9ab7197
+=======
+guid: 6283080603e2c7b46b759e47ff1988d2
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
 guid: dee451f8d7171074b848405e9c60d086
 =======
 guid: 1b2062a29c60ffd46a4edef3c9ab7197
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 1b2062a29c60ffd46a4edef3c9ab7197
@@ -12,6 +23,9 @@ guid: 1b2062a29c60ffd46a4edef3c9ab7197
 guid: 6283080603e2c7b46b759e47ff1988d2
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_armor__0016_finger1.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

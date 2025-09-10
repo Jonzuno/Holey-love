@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
+<<<<<<< HEAD
+guid: 6e59db7f2b76dbb4f90290bcef2d4f06
+=======
+guid: a85631043eaba1b4ea698dbcfee8c8c3
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
 guid: ad568663508fa1f40a45a92bbf64213a
 =======
 guid: 6e59db7f2b76dbb4f90290bcef2d4f06
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 6e59db7f2b76dbb4f90290bcef2d4f06
@@ -12,6 +23,9 @@ guid: 6e59db7f2b76dbb4f90290bcef2d4f06
 guid: a85631043eaba1b4ea698dbcfee8c8c3
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0019_hurt_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

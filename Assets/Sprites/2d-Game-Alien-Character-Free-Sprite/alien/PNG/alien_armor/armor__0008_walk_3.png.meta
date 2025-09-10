@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
+<<<<<<< HEAD
+guid: 5c1daba2e7b13f348b1a6c2f04e76b13
+=======
+guid: 652f7981dbaa8a044b0c3f06c6596b00
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
 guid: 3fe94b5eaa6d3d04787a576fa54b0ee8
 =======
 guid: 5c1daba2e7b13f348b1a6c2f04e76b13
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 5c1daba2e7b13f348b1a6c2f04e76b13
@@ -12,6 +23,9 @@ guid: 5c1daba2e7b13f348b1a6c2f04e76b13
 guid: 652f7981dbaa8a044b0c3f06c6596b00
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_armor/armor__0008_walk_3.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

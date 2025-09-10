@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
+<<<<<<< HEAD
+guid: 45b69d81565fd0d4a865db51f993d2d4
+=======
+guid: 51abb8e5fe04aa44cbf6fcede0821b76
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
 guid: ee6a96000e8555a4c86a851a29d134a5
 =======
 guid: 45b69d81565fd0d4a865db51f993d2d4
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 45b69d81565fd0d4a865db51f993d2d4
@@ -12,6 +23,9 @@ guid: 45b69d81565fd0d4a865db51f993d2d4
 guid: 51abb8e5fe04aa44cbf6fcede0821b76
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/alien_grey_eyeleeds_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

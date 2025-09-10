@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
+<<<<<<< HEAD
+guid: 4f13dd36839c00445b2f1b5ee02ba290
+=======
+guid: 0c7a2d7732357d54189e75689c380c41
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
 guid: 62f4170cdc513454b8260a25193fbaae
 =======
 guid: 4f13dd36839c00445b2f1b5ee02ba290
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 4f13dd36839c00445b2f1b5ee02ba290
@@ -12,6 +23,9 @@ guid: 4f13dd36839c00445b2f1b5ee02ba290
 guid: 0c7a2d7732357d54189e75689c380c41
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_green/green__0034_attack_4.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

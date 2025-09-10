@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
+<<<<<<< HEAD
+guid: 415f6c640f1b25e4ab05c2862d958111
+=======
+guid: c5b2a88a64189064f80a9aaea3de41e8
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
 guid: 01b193348d4b81d48a779c7147e96670
 =======
 guid: 415f6c640f1b25e4ab05c2862d958111
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 415f6c640f1b25e4ab05c2862d958111
@@ -12,6 +23,9 @@ guid: 415f6c640f1b25e4ab05c2862d958111
 guid: c5b2a88a64189064f80a9aaea3de41e8
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/all_bodyparts/blaster_2.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:

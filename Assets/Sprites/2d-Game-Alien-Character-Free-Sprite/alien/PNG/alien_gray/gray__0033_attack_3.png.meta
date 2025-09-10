@@ -1,10 +1,21 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
+=======
+<<<<<<< HEAD:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
+<<<<<<< HEAD
+guid: 953e6a22300df3c4fab074dca60dccfb
+=======
+guid: 1670f9a227d6dd14b8234c11a5578fb4
+>>>>>>> Malthe
+=======
+>>>>>>> main
 <<<<<<< HEAD:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
 guid: 03f9781cfe2b92a4392f6158c590c533
 =======
 guid: 953e6a22300df3c4fab074dca60dccfb
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 953e6a22300df3c4fab074dca60dccfb
@@ -12,6 +23,9 @@ guid: 953e6a22300df3c4fab074dca60dccfb
 guid: 1670f9a227d6dd14b8234c11a5578fb4
 >>>>>>> Malthe
 >>>>>>> main:Assets/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
+=======
+>>>>>>> Tobias:Assets/Sprites/2d-Game-Alien-Character-Free-Sprite/alien/PNG/alien_gray/gray__0033_attack_3.png.meta
+>>>>>>> main
 TextureImporter:
   internalIDToNameTable:
   - first:
